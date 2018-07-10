@@ -1,0 +1,9 @@
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\bin\Debug\netstandard2.0\Entidades9-7.deps.json
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\bin\Debug\netstandard2.0\Entidades9-7.dll
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\bin\Debug\netstandard2.0\Entidades9-7.pdb
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.AssemblyInfo.vb
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.dll
+C:\Users\Sebastian\source\repos\Entidades9-7\Entidades9-7\obj\Debug\netstandard2.0\Entidades9-7.pdb

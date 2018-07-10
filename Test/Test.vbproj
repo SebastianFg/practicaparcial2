@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Test</RootNamespace>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <StartupObject>Test.tiendaTest</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades9-7\Entidades9-7.vbproj" />
+  </ItemGroup>
+
+</Project>

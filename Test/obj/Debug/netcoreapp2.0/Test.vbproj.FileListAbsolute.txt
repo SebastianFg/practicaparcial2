@@ -1,0 +1,14 @@
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Test.dll
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Test.pdb
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Entidades9-7.dll
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\bin\Debug\netcoreapp2.0\Entidades9-7.pdb
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.vb
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.vbproj.CopyComplete
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.dll
+C:\Users\Sebastian\source\repos\Entidades9-7\Test\obj\Debug\netcoreapp2.0\Test.pdb
